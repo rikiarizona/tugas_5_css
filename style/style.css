@@ -1,0 +1,32 @@
+div.div_menu {
+  background-color: black;
+  color: white;
+}
+.menu {
+  color: white;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+div.slider-div {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.footer {
+  font-size: 30px;
+}
+
+.footer-alamat {
+  font-size: 16px;
+}
